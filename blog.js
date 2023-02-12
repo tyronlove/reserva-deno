@@ -78,13 +78,12 @@ function handle (config, postname) {
     <a href="/"><img src=${config.avatar || 'https://deno-avatar.deno.dev/avatar/blog.svg'} style="float: left; margin-right: .8em; width: 150px;" class="profile"/></a>
     <div>
     <p>${config.description || 'This is my blog description.'}</p>
-    <ul>${linklist || 'Links'}</ul>
-    </div>
+    <div><ul>${linklist || 'Links'}</ul></div>
     <hr />
     <h2>${post.title || 'Posts'}</h2>
     ${post.markdown || 'Post list should go here'}
     <hr>
-    <p style="font-size: .8em;">Built with <a href="#">Metalwork</a> | Deployed to <a href="#">Digital Ocean</a> | <a href="#">GitMX</a>.
+    <p style="font-size: .8em;">Built with <a href="#">Deno Blog</a> | Deployed to <a href="#">Deno Deploy</a> | <a href="https://github.com/tyronlove/reserva-deno">Github</a>.
     </p>
   `
   return head + content + foot

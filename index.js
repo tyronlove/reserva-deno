@@ -9,5 +9,12 @@ blog({
   links: [
     { title: 'Twitter', url: 'https://twitter.com/tyron_love'},
     { title: 'Bogbook', url: 'https://bogbook.com/#TIZGEEjhlzfr0+15ZXO0+03vSLfDJEIFUKwXjeVGUQQ='} 
-  ]
-})
+  ],
+  lang: "en",
+  favicon: "favicon.ico",
+  ogImage: {
+    url: "/images/profile.png",
+    twitterCard:  "/images/profile.png" 
+  },
+  style:""
+});
