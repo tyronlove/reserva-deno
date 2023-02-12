@@ -83,7 +83,7 @@ function handle (config, postname) {
     <h2>${post.title || 'Posts'}</h2>
     ${post.markdown || 'Post list should go here'}
     <hr>
-    <p style="font-size: .8em;">Built with <a href="#">Deno Blog</a> | Deployed to <a href="#">Deno Deploy</a> | <a href="https://github.com/tyronlove/reserva-deno">Github</a>.
+    <p style="font-size: .8em;">Built with <a href="https://github.com/denoland/deno_blog">Deno Blog</a> | Deployed to <a href="https://deno.com/deploy">Deno Deploy</a> | <a href="https://github.com/tyronlove/reserva-deno">Github</a>.
     </p>
   `
   return head + content + foot
