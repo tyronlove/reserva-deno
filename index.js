@@ -16,5 +16,5 @@ blog({
     url: "/images/profile.png",
     twitterCard:  "/images/profile.png" 
   },
-  style:""
+  style:".img-style {float: left; width: 60%; margin-left: 1em; margin-top: -4.6em;}"
 });
