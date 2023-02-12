@@ -8,7 +8,7 @@ On Christmas Day 2022 I got my iPhone stolen. The story of how it got stolen is 
 
 Despite that horrible situation the incident resulted in me having to get a new phone and I purchased this [dumbphone](https://www.idler.co.uk/article/the-loneliness-of-the-dumbphone-user/).
 
-<img src="images/dumbphone.jpg"/>
+<img src="images/dumbphone.jpg" style="float: left; width: 60%; margin-left: 1em; margin-top: -4.6em;" class="profile"/>
 
 It's a [Punkt MP02 New Generation 4G voice phone](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/). It makes calls, sends text messages and is supposed to have a custom app called Pigeon which uses the Signal protocol to make calls and send encrypted messages. It doesn't work, which is a shame. But, the actual phone works fantastically, calls are clear and the construction of the device is excellent.
 
